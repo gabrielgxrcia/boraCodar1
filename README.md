@@ -12,30 +12,20 @@
 - CSS3
 - Grid e Flexbox.
 
-<h3>🎨 Protótipo</h3>
+## 💻 Projeto
 
-Acesse o protótipo disponibilizado pela Rocketseat clicando no botão abaixo:
+boraCodar é um projeto com uma rotina de 21 dias de prática na programação. 
 
-<a href="https://www.figma.com/file/aUPz0jeV4vtvVcyIASj0RA/%23boraCodar---Desafio-1?node-id=1128%3A22&t=1zXSyQs8rmFfMeG4-1
-">![Figma](https://img.shields.io/badge/Acessar%20Protótipo-2A2141?style=for-the-badge&logo=figma&logoColor=white)</a>
+- [Acesse o projeto finalizado, online](https://gabrielgxrcia.github.io/boraCodar1/)
 
-<h3>🔗 Deploy</h3>
+## 🔖 Layout
 
-Acesse o projeto em produção clicando no botão abaixo:
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/aUPz0jeV4vtvVcyIASj0RA/%23boraCodar---Desafio-1?node-id=1128%3A22&t=1zXSyQs8rmFfMeG4-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<a href="" target='_blank'></a>
+## :memo: Licença
 
-<h3> 🖥 Rodando Localmente</h3>
+Esse projeto está sob a licença MIT.
 
-Primeiro clone o projeto na sua máquina
+---
 
-```bash
-git clone https://github.com/gabrielgxrcia/boraCodar-1.git
-cd boraCodar-1
-```
-
-## 👤 Autor
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/gabrielgxrcia"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/110958994?s=400&u=94c73a2ad59ada921e441ec6c850b920a8ad5441&v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Garcia</b></sub></a><br /><br /><a href="https://www.linkedin.com/in/gabrielgarciagrazeffi/"><img src="https://user-images.githubusercontent.com/86114583/192514843-1087a34f-74f9-46aa-94fa-e824950af81f.svg" width="20px"/></a>⠀<a href="mailto:gabrielgrazeffi12@gmail.com"><img src="https://user-images.githubusercontent.com/86114583/192515071-4fa6bce6-6ee9-49ca-9395-c17e74075a20.svg" width="20px"/></a>
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
