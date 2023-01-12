@@ -38,8 +38,8 @@ Para rodar o projeto na sua máquina é necessário:
 Primeiro clone o projeto na sua máquina
 
 ```bash
-git clone https://github.com/gabrielgxrcia/boraCodar#1.git
-cd boraCodar#1
+git clone https://github.com/gabrielgxrcia/boraCodar-1.git
+cd boraCodar-1
 ```
 
 ## 👤 - Autor
