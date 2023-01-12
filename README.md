@@ -6,34 +6,26 @@
 
 - [Acessar Desafio](https://boracodar.dev)
 
-## 🛠 - Tecnologias
+## 🛠 Tecnologias
 
 - HTML5
 - CSS3
 - Grid e Flexbox.
 
-<h3>🎨 - Protótipo</h3>
+<h3>🎨 Protótipo</h3>
 
 Acesse o protótipo disponibilizado pela Rocketseat clicando no botão abaixo:
 
 <a href="https://www.figma.com/file/aUPz0jeV4vtvVcyIASj0RA/%23boraCodar---Desafio-1?node-id=1128%3A22&t=1zXSyQs8rmFfMeG4-1
 ">![Figma](https://img.shields.io/badge/Acessar%20Protótipo-2A2141?style=for-the-badge&logo=figma&logoColor=white)</a>
 
-<h3>🔗 - Deploy</h3>
+<h3>🔗 Deploy</h3>
 
 Acesse o projeto em produção clicando no botão abaixo:
 
 <a href="" target='_blank'></a>
 
-<h3> ✔ - Requisitos</h3>
-
-Para rodar o projeto na sua máquina é necessário:
-
-- Editor de Códigos(como VS Code)
-- Git
-- Navegador
-
-<h3> 🖥 - Rodando Localmente</h3>
+<h3> 🖥 Rodando Localmente</h3>
 
 Primeiro clone o projeto na sua máquina
 
@@ -42,7 +34,7 @@ git clone https://github.com/gabrielgxrcia/boraCodar-1.git
 cd boraCodar-1
 ```
 
-## 👤 - Autor
+## 👤 Autor
 
 <table>
   <tr>
